@@ -26,9 +26,9 @@
 
 
 <div>
-  <a href="https://github.com/CarolAmaral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolAmaral&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolAmaral&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/anacapx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacapx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacapx&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   

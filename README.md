@@ -10,13 +10,13 @@
 </div>
 
 ### About me
-* Fullstack Web Development student at @Cubos Academy
-* IT student at UNIVESP University 
+* FullStack Web Developer
+* IT student @UNIVESP University 
 * Fun fact: I am a biologist with a Master's Degree in Environmental Sciences
 
 ##
 
-### Tech Stack and Interests
+### Tech Stacks and Interests
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
@@ -28,15 +28,17 @@
 
 ##
 
+
+  
+  
+  
+<!--
 <div>
   <a href="https://github.com/anacapx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anacapx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacapx&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-  
-  
-  
-<!--
+
 <img title="JavaScript" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="PostgreSQL" align="center" alt="postgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
   <img title="Node.js" align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">

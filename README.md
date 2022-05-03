@@ -12,7 +12,7 @@
 ### About me
 * FullStack Web Developer
 * IT student @UNIVESP University 
-* Fun fact: I am a biologist with a Master's Degree in Environmental Sciences
+* Biologist with a Master's Degree in Environmental Sciences
 
 ##
 
